@@ -1,6 +1,14 @@
-/* #root {
-  max-width: 180px;
+:root{
+  --max-width:32%;
+}
+.scard h3:after {
+  position: absolute;
+  bottom: 140px;
+  left: 0;
+  right: 0;
+  content: '';
+  width: 30px;
+  height: 1px;
+  background: #3e64ff;
   margin: 0 auto;
-  padding: 2rem; */
-  /* text-align: center;
-} */
+}

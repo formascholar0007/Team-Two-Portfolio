@@ -1,5 +1,4 @@
 import 'font-awesome/css/font-awesome.min.css';
-import { Navbar } from './Navbar';
 import devig2 from '../images/devig2.png';
 export const Hero = () => {
     return (
@@ -8,7 +7,6 @@ export const Hero = () => {
                 <div className="mx-auto h-full"> */}
             <div className="mx-auto w-full h-screen  hero">
                 <div className="mx-auto w-[90%] h-screen ">
-                    <Navbar />
 
                     <div className=" flex items-center justify-between text-start">
                         <div className="lg:w-[50%] w-[80%] pt-16 lg:pt-0 ">
