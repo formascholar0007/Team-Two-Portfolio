@@ -4,7 +4,7 @@ export const Scards = ({ title, description, icon }) => {
     return (
         <>
             {/* */}
-            <div className='px-6 py-10 shadow-md relative md:w-32 w-[80%] scard flex justify-between flex-col items-center hover:bg-sky-500' >
+            <div className='px-6 py-10 shadow-md relative md:w-32 w-[80%] scard flex justify-between flex-col items-center hover:bg-green-500' >
                 
                     {icon}
                 <br />
