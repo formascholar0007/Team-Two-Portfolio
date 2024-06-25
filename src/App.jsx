@@ -6,7 +6,8 @@ import { Numbox } from './components/Numbox';
 import { Contact } from './components/Contact';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
-import './App.css';
+import OurVlog from './components/OurVlog';
+import HireMe from './components/HireMe';
 function App() { 
   return (
     <>
@@ -18,6 +19,9 @@ function App() {
       <Project/>
       <Numbox />
       <Contact/>
+      <OurVlog />
+      <HireMe />
+      
     </>
   )
 }
