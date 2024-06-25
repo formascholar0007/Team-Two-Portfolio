@@ -1,7 +1,8 @@
 import { Hero } from './components/Hero';
 import { Navbar } from './components/Navbar';
-import AboutMe from './components/AboutMe';
 import { Services } from './components/Services';
+import { Project } from './components/Project';
+import { Numbox } from './components/Numbox';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
 import './App.css';
@@ -11,11 +12,10 @@ function App() {
      <Navbar />
       <Hero />
       <AboutMe />
-      <Hero />
-      <AboutMe />
       <Education />
       <Services />
-
+      <Project/>
+      <Numbox />
     </>
   )
 }

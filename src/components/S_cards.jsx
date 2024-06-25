@@ -8,11 +8,11 @@ export const Scards = ({ title, description, icon }) => {
                 
                     {icon}
                 <br />
-                <h3 className="text-md capitalize font-medium py-2 w-16" >
+                <h3 className="text-md capitalize font-medium py-2 " >
                     {title}
                 </h3>
                 <br />
-                <p className='text-gray-600 text-lg'>{description}</p>
+                <p className='text-gray-600 text-lg '>{description}</p>
             </div>
 
         </>

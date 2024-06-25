@@ -4,7 +4,7 @@ export const Navbar = () => {
     return (
         <>
         <div className=' mx-auto w-[90%]'>
-            <div className=' flex justify-between items-center border p-4 sticky top-0 '>
+            <div className=' flex justify-between items-center border p-4 sticky top-0 bg-green-100'>
                 <div className="logo flex items-center ">
                     <img src={p} alt="p" height={150} width={100} className='' />
                     <b className='text-2xl hidden  lg:block'>Portfolio</b>

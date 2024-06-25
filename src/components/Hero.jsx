@@ -23,19 +23,19 @@ export const Hero = () => {
                             <br />
                             <div className='flex gap-8 pt-3 items-center'>
                                    
-                                <div className="capitalize flex items-center justify-evenly p-3 lg:p-4 text-xl text-black rounded-full bg-slate-300 lg:rounded">
+                                <div className="capitalize flex items-center justify-evenly p-3 lg:p-4 text-xl text-black rounded-full bg-green-100 lg:rounded">
                                    <span className='hidden  lg:block'>download cv</span>  <i className="fa fa-download p-1 " aria-hidden="true"></i>
                                 </div>
                                 <div className=''>
-                                    <i class="fa fa-instagram  bg-slate-300 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
+                                    <i class="fa fa-instagram  bg-green-100 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
                                 </div>
 
                                 <div>
-                                    <i class="fa fa-facebook bg-slate-300 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
+                                    <i class="fa fa-facebook bg-green-100 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
                                 </div>
 
                                 <div>
-                                    <i class="fa fa-twitter  bg-slate-300 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
+                                    <i class="fa fa-twitter  bg-green-100 text-xl rounded-full px-5 py-4" aria-hidden="true"></i>
                                 </div>
 
                              
