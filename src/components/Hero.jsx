@@ -1,5 +1,10 @@
 import 'font-awesome/css/font-awesome.min.css';
-import devig2 from '../images/devig2.png';
+import devig1 from '../images/devi1.png';
+import devig2 from '../images/devi2.png';
+import devig3 from '../images/devi3.png';
+import devig4 from '../images/devi4.png';
+import devig5 from '../images/devi5.png';
+import devig6 from '../images/devig2.png';
 export const Hero = () => {
     return (
         <>
@@ -21,7 +26,7 @@ export const Hero = () => {
                             </p>
                             <br />
                             <br />
-                            <div className='flex gap-8 pt-3 items-center'>
+                            <div className='flex gap-8 pt-3 items-center '>
                                    
                                 <div className="capitalize flex items-center justify-evenly p-3 lg:p-4 text-xl text-black rounded-full bg-green-100 lg:rounded">
                                    <span className='hidden  lg:block'>download cv</span>  <i className="fa fa-download p-1 " aria-hidden="true"></i>
@@ -48,7 +53,7 @@ export const Hero = () => {
                             </div>
                         </div>
                         <div className='hidden  lg:block' style={{ width: '655px' }}>
-                            <img src={devig2} alt="heroimg" className='w-full rounded-full' />
+                            <img src={devig6} alt="heroimg" className='w-full rounded-full' />
                         </div>
                     </div>
                 </div>

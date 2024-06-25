@@ -47,7 +47,7 @@ export const Services = () => {
                 <p className="text-center text-gray-500">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                 <br />
                 <br />
-                <div className="w-[90%] mx-auto md:flex md:flex-wrap  md:flex-row  flex flex-col items-center md:gap-5 gap-10" >
+                <div className="w-[90%] mx-auto md:grid md:grid-cols-3 md:gap-5  flex flex-col items-center  gap-10" >
                     {cardData.map((data, index) => (
                         <Scards key={index} title={data.title} description={data.description} icon={data.icon} />
                     ))}                

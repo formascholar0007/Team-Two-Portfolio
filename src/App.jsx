@@ -3,6 +3,7 @@ import { Navbar } from './components/Navbar';
 import { Services } from './components/Services';
 import { Project } from './components/Project';
 import { Numbox } from './components/Numbox';
+import { Contact } from './components/Contact';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
 import './App.css';
@@ -16,6 +17,7 @@ function App() {
       <Services />
       <Project/>
       <Numbox />
+      <Contact/>
     </>
   )
 }
