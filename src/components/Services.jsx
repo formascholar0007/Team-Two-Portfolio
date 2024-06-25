@@ -4,14 +4,13 @@ import  browser  from "./flaticon/browser.png";
 import  idea  from "./flaticon/idea.png";
 import  innovation  from "./flaticon/innovation.png";
 import  laboratory  from "./flaticon/laboratory.png";
-import  lightbulb  from "./flaticon/lightbulb.png";
 import  product  from "./flaticon/new-product.png";
 
 export const Services = () => {
     const cardData = [
         {
             icon: <img src={analytics} height={20} width={70} alt="analytics" className="bg"/> ,
-            title: 'Web Design ',
+            title: 'Web-Design ',
             description: 'This is the description for card 1.This is the description for card 1.This is the description for card 1.1',
         },
         {
@@ -21,12 +20,12 @@ export const Services = () => {
         },
         {
             icon:<img src= {product} height={20} width={70} alt="idea" />  ,
-            title: 'Web Developer',
+            title: 'Web-Developer',
             description: 'This is the description for card 3.This is the description for card 1.This is the description for card 1. 3.',
         },
         {
             icon: <img src={innovation} height={20} width={70} alt="innovation" />  ,
-            title: 'App Developing',
+            title: 'App-Developing',
             description: 'This is the description for card 4.This is the description for card 1.This is the description for card 1. 4.',
         },
         {
@@ -43,7 +42,7 @@ export const Services = () => {
     return (
         <>
             <div>
-                <h1 className="text-6xl text-center font-bold"> Services</h1>
+                <h1 className="text-6xl text-center font-bold mt-14"> Services</h1>
                 <br />
                 <p className="text-center text-gray-500">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                 <br />

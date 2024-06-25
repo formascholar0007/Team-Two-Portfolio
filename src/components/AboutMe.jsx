@@ -42,7 +42,7 @@ function AboutMe() {
                                 <span className="text-xl font-bold">120</span>
                                 <span className="ml-2 font-bold">Projects completed</span>
                             </p>
-                            <button className="btn btn-primary rounded-md text-white py-2 px-4 transition ease-in-out delay-150 bg-green-500 border-2 border-transparent hover:-translate-y-1 hover:scale-110 hover:bg-gray-500 hover:border-green-500 duration-400">
+                            <button className="btn btn-primary rounded-md text-white py-2 px-4 transition ease-in-out delay-150 bg-green-400 border-2 border-transparent hover:-translate-y-1 hover:scale-110 hover:bg-gray-500 hover:border-green-500 duration-400">
                                 Download CV
                             </button>
                         </div>
