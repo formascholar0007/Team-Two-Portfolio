@@ -17,6 +17,8 @@ function App() {
       <Services />
       <Project/>
       <Numbox />
+      <OurVlog />
+      <HireMe />
     </>
   )
 }
