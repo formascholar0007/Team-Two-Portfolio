@@ -8,6 +8,7 @@ import AboutMe from './components/AboutMe';
 import Education from './components/Education';
 import OurVlog from './components/OurVlog';
 import HireMe from './components/HireMe';
+import Footerbar from './components/Footerbar';
 
 function App() { 
   return (
@@ -22,6 +23,7 @@ function App() {
       <Contact/>
       <OurVlog />
       <HireMe />
+      <Footerbar />
       
       
     </>
