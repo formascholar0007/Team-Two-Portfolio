@@ -51,7 +51,7 @@ function Education() {
                             <div className="mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -70,7 +70,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -89,7 +89,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -108,7 +108,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -129,7 +129,7 @@ function Education() {
                             <div className="mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -148,7 +148,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -167,7 +167,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -186,7 +186,7 @@ function Education() {
                             <div className="mt-6 mb-6">
                                 <div className="flex items-start space-x-4">
                                     <div className="flex-shrink-0">
-                                        <div className="bg-green-500 text-white p-4 rounded-full">
+                                        <div className="bg-custom-brown text-white p-4 rounded-full">
                                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -207,21 +207,21 @@ function Education() {
                                 <h2 className="text-3xl font-bold mb-8 text-green-500">Clients</h2>
                                 <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
                                     {/* Card 1 */}
-                                    <div className="bg-green-200 shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
+                                    <div className="bg-custom-brown shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
                                         <img src="https://wallpaperaccess.com/full/2187146.jpg" alt="Skill 2" className="w-24 h-24 object-cover rounded-full mb-4" />
                                         <p className="text-center mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, vel..</p>
                                         <a href="#" className="text-blue-500 hover:underline">Read More..</a>
                                     </div>
 
                                     {/* Card 2 */}
-                                    <div className="bg-green-200 shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
+                                    <div className="bg-custom-brown shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
                                         <img src="https://justificaturespuesta.com/wp-content/uploads/2013/04/shutterstock_85474711-e1366916292301.jpg" alt="Skill 2" className="w-24 h-24 object-cover rounded-full mb-4" />
                                         <p className="text-center mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, vel..</p>
                                         <a href="#" className="text-blue-500 hover:underline">Read More..</a>
                                     </div>
 
                                     {/* Card 3 */}
-                                    <div className="bg-green-200 shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
+                                    <div className="bg-custom-brown shadow-md rounded-lg p-6 flex flex-col items-center transition-transform duration-300 transform hover:scale-105">
                                         <img src="https://wallpaperaccess.com/full/2187146.jpg" alt="Skill 3" className="w-24 h-24 object-cover rounded-full mb-4" />
                                         <p className="text-center mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, vel..</p>
                                         <a href="#" className="text-blue-500 hover:underline">Read More..</a>
@@ -236,7 +236,7 @@ function Education() {
                                 <div className="mb-6">
                                     <div className="flex items-start space-x-4">
                                         <div className="flex-shrink-0">
-                                            <div className="bg-green-500 text-white p-4 rounded-full">
+                                            <div className="bg-custom-brown text-white p-4 rounded-full">
                                                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -255,7 +255,7 @@ function Education() {
                                 <div className="mt-6 mb-6">
                                     <div className="flex items-start space-x-4">
                                         <div className="flex-shrink-0">
-                                            <div className="bg-green-500 text-white p-4 rounded-full">
+                                            <div className="bg-custom-brown text-white p-4 rounded-full">
                                                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -274,7 +274,7 @@ function Education() {
                                 <div className="mt-6 mb-6">
                                     <div className="flex items-start space-x-4">
                                         <div className="flex-shrink-0">
-                                            <div className="bg-green-500 text-white p-4 rounded-full">
+                                            <div className="bg-custom-brown text-white p-4 rounded-full">
                                                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>
@@ -293,7 +293,7 @@ function Education() {
                                 <div className="mt-6 mb-6">
                                     <div className="flex items-start space-x-4">
                                         <div className="flex-shrink-0">
-                                            <div className="bg-green-500 text-white p-4 rounded-full">
+                                            <div className="bg-custom-brown text-white p-4 rounded-full">
                                                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5z"></path>
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l6.16-3.422A12.093 12.093 0 0112 20.794a12.093 12.093 0 01-6.16-9.216L12 14z"></path>

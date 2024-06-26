@@ -10,15 +10,15 @@ function HireMe() {
                       objectPosition: 'center',
                   }}
               ></div>
-              <div className="absolute inset-0 bg-green-900 opacity-70"></div>
+              <div className="absolute inset-0 bg-custom-brown opacity-70"></div>
               <div className="relative text-center text-white px-4">
                   <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
-                      I'm <span className="text-green-400">Available</span> for freelancing
+                      I'm <span className="text-black">Available</span> for freelancing
                   </h1>
                   <p className="mt-4 text-base sm:text-lg md:text-xl">
                       A small river named Duden flows by their place and supplies it with the necessary regelialia.
                   </p>
-                  <button className="mt-8 px-4 py-2 sm:px-6 sm:py-3 md:px-8 md:py-3 lg:px-10 lg:py-3 bg-green-500 text-white rounded-full shadow-lg hover:bg-blue-700">
+                  <button className="mt-8 px-4 py-2 sm:px-6 sm:py-3 md:px-8 md:py-3 lg:px-10 lg:py-3 bg-black text-white rounded-full shadow-lg hover:bg-white hover:text-black">
                       HIRE ME
                   </button>
               </div>

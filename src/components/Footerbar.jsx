@@ -9,13 +9,13 @@ function Footerbar() {
                             <p className="mt-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <div className="mt-4 flex space-x-4">
                                 <div>
-                                  <a href="#"><i className="fa fa-instagram bg-green-500 text-xl rounded-full px-4 py-3" aria-hidden="true"></i></a>
+                                  <a href="#"><i className="fa fa-instagram bg-custom-brown text-xl rounded-full px-4 py-3" aria-hidden="true"></i></a>
                                 </div>
                                 <div>
-                                   <a href="#"><i className="fa fa-facebook bg-green-500 text-xl rounded-full px-5 py-3" aria-hidden="true"></i></a>
+                                   <a href="#"><i className="fa fa-facebook bg-custom-brown text-xl rounded-full px-5 py-3" aria-hidden="true"></i></a>
                                 </div>
                                 <div>
-                                   <a href="#"><i className="fa fa-twitter bg-green-500 text-xl rounded-full px-4 py-3" aria-hidden="true"></i></a>
+                                   <a href="#"><i className="fa fa-twitter bg-custom-brown text-xl rounded-full px-4 py-3" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>

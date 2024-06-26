@@ -2,18 +2,15 @@ import 'font-awesome/css/font-awesome.min.css';
 import '../App.css';
 export const Scards = ({ title, description, icon }) => {
     return (
-<<<<<<< HEAD
-        <>
-            <div className='px-6 py-10 shadow-md relative md:w-[100%] w-[80%] scard flex justify-between flex-col items-center hover:bg-sky-500' >
-                <div className='px-6 py-10  relative  w-[80%] scard flex justify-between flex-col items-center ' >
-=======
+        <div>
+            <div className='px-6 py-3 shadow-md  scard flex justify-between flex-col items-center hover:bg-custom-brown' >
+                <div className='px-6 py-3   scard flex justify-between flex-col items-center ' >
         <div>
             {/*  */}
-            <div className='px-6 py-10 shadow-md relative scard flex justify-between flex-col items-center hover:bg-green-300' >
+            <div className='px-6 py-3  relative scard flex justify-between flex-col items-center hover:bg-custom-brown' >
             {/* */}
-            <div className='px-6 py-10  relative scard flex justify-between flex-col items-center hover:bg-green-300' >
+            <div className='px-6 py-3  relative scard flex justify-between flex-col items-center hover:bg-custom-brown' >
                 
->>>>>>> f6df0acc4c5f9b5d76c18f1e091840b110441d77
                     {icon}
                     <br />
                     <h3 className="text-md capitalize font-medium py-2 " >
@@ -24,7 +21,8 @@ export const Scards = ({ title, description, icon }) => {
                 </div>
             </div>
             </div>
-
+</div>
+        </div>
         </div>
     )
 }

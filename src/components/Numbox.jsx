@@ -26,8 +26,8 @@ export const Numbox = () => {
                 {numData.map((data, index) => (
                     (
                         <div className="py-5 px-10 shadow-lg md:w-[20%] text-center my-14 mx-[5%] w-[80%] " >
-                            <h1 className="text-4xl text-green-500 font-bold py-4 ">{data.num}</h1>
-                            <p className="text-slate-600">{data.text}</p>
+                            <h1 className="text-4xl text-black font-bold py-4 ">{data.num}</h1>
+                            <p className="text-slate-500">{data.text}</p>
                         </div>
                     )
                 ))}

@@ -4,23 +4,23 @@ import 'font-awesome/css/font-awesome.min.css';
 export const Contact = () => {
     const Concard = [
         {
-            icon: <i class="fa fa-map-marker text-4xl rounded-full px-9 py-7 bg-cyan-300" aria-hidden="true"></i>,
+            icon: <i class="fa fa-map-marker text-4xl rounded-full px-9 py-7 bg-custom-brown" aria-hidden="true"></i>,
             title: 'Address ',
             description: '198 West 21th Street, Suite 721 New York NY 100161',
         },
         {
-            icon: <i class="fa fa-phone text-4xl rounded-full px-9 py-7 bg-cyan-300" aria-hidden="true"></i>
+            icon: <i class="fa fa-phone text-4xl rounded-full px-9 py-7 bg-custom-brown" aria-hidden="true"></i>
             ,
             title: 'Contact Number',
             description: '+ 1235 2355 98',
         },
         {
-            icon: <i class="fa fa-paper-plane text-4xl rounded-full px-9 py-7 bg-cyan-300" aria-hidden="true"></i>,
+            icon: <i class="fa fa-paper-plane text-4xl rounded-full px-9 py-7 bg-custom-brown" aria-hidden="true"></i>,
             title: 'Email Address',
             description: 'info@yoursite.com',
         },
         {
-            icon: <i class="fa fa-globe text-4xl rounded-full px-9 py-7 bg-cyan-300" aria-hidden="true"></i>,
+            icon: <i class="fa fa-globe text-4xl rounded-full px-9 py-7 bg-custom-brown" aria-hidden="true"></i>,
             title: 'Website',
             description: 'yoursite.com',
         },
@@ -55,7 +55,7 @@ export const Contact = () => {
                         <input type="text" placeholder='Your Email' className='border px-6 py-3 mb-6 rounded-md' />
                         <input type="text" placeholder='Your Subject' className='border px-6 py-3 mb-6 rounded-md' />
                         <textarea name="" id="" cols="30" rows="7" className='border px-6 py-3 mb-6 rounded-md text-gray-400' >Messege</textarea>
-                        <button className='px-8 py-3 border self-start rounded-3xl bg-cyan-600 text-white'>send messege</button>
+                        <button className='px-8 py-3 border self-start rounded-3xl bg-black text-white hover:bg-custom-brown hover:text-black'>send messege</button>
                     </div>
                 </div>
             </div>
