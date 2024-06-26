@@ -1,4 +1,5 @@
 // import hero from '../Images/banner_img_1.png';
+
 import p from '../images/p.png';
 export const Navbar = () => {
     return (

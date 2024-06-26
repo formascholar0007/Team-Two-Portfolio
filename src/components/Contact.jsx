@@ -1,3 +1,4 @@
+
 import men from '../images/men.png';
 import 'font-awesome/css/font-awesome.min.css';
 export const Contact = () => {
@@ -61,3 +62,6 @@ export const Contact = () => {
         </>
     )
 }
+
+
+
