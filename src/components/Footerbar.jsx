@@ -1,8 +1,8 @@
 function Footerbar() {
     return (
-        <div className="bg-black text-white">
-            <footer className="bg-black py-16">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="bg-black text-white ">
+            <footer className="bg-black py-[8rem]">
+                <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
                         <div>
                             <h4 className="text-2xl md:text-3xl font-bold mb-4">About</h4>
@@ -58,7 +58,7 @@ function Footerbar() {
                         </div>
                     </div>
                 </div>
-                <div className="border-t border-gray-700 mt-10 pt-10 text-lg text-center">
+                <div className=" border-gray-700 mt-[7rem] pt-10 text-lg text-center">
                     <p className="text-white">&copy; 2024 All rights reserved | This template is made with <span className="text-red-500">&hearts;</span> by Colorlib</p>
                 </div>
             </footer>
