@@ -1,3 +1,4 @@
+import 'animate.css';
 import { Hero } from './components/Hero';
 import { Navbar } from './components/Navbar';
 import { Services } from './components/Services';
@@ -18,10 +19,9 @@ function App() {
       <Services />
       <Project/>
       <Numbox />
-      <Contact/>
       <OurVlog />
       <HireMe />
-      
+      <Contact/>
     </>
   )
 }

@@ -7,8 +7,8 @@ export default {
         roboto:['Roboto', 'sans-serif'],
       }
       ,
-      width:{
-        '32':'var(--max-width)',
+      backgroundColor:{
+        'custom-brown':'#dfc5bc',
       },
     },
   },
