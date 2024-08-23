@@ -10,7 +10,7 @@ function HireMe() {
                       objectPosition: 'center',
                   }}
               ></div>
-              <div className="absolute inset-0 bg-custom-brown opacity-70"></div>
+              <div className="absolute inset-0 bg-orange-400  opacity-70"></div>
               <div className="relative text-center text-white px-4">
                   <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
                       I'm <span className="text-black">Available</span> for freelancing

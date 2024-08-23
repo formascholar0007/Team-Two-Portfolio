@@ -1,6 +1,7 @@
 import 'animate.css';
 import { Hero } from './components/Hero';
 import { Navbar } from './components/Navbar';
+import  HappyClients from './components/HappyClients';
 import { Services } from './components/Services';
 import { Project } from './components/Project';
 import { Numbox } from './components/Numbox';
@@ -18,6 +19,7 @@ function App() {
       <Hero />
       <AboutMe />
       <Education />
+      <HappyClients />
       <Services />
       <Project/>
       <Numbox />
